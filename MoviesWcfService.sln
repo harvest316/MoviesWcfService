@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesWcfService", "MoviesWcfService\MoviesWcfService.csproj", "{A43159B6-FFE6-4FD5-A673-EC5D7E592055}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesWcfServiceTests", "MoviesWcfServiceTests\MoviesWcfServiceTests.csproj", "{6E0F24AC-A64F-4B6D-9BC5-CDA82341F52A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A43159B6-FFE6-4FD5-A673-EC5D7E592055}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A43159B6-FFE6-4FD5-A673-EC5D7E592055}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A43159B6-FFE6-4FD5-A673-EC5D7E592055}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A43159B6-FFE6-4FD5-A673-EC5D7E592055}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E0F24AC-A64F-4B6D-9BC5-CDA82341F52A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E0F24AC-A64F-4B6D-9BC5-CDA82341F52A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E0F24AC-A64F-4B6D-9BC5-CDA82341F52A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E0F24AC-A64F-4B6D-9BC5-CDA82341F52A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
